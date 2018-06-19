@@ -1,0 +1,2 @@
+# econjulia
+econometrics in julia
